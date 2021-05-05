@@ -2,3 +2,5 @@ read customer id
 read item 1, item2, item 3 , item 4
 totdal-item1+item2+itemt 3+item4
 print total
+point=0
+point=point +10
